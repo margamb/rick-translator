@@ -407,7 +407,7 @@ body {
 }
 .box-translate-triangle {
   position: absolute;
-  top: 80px;
+  top: 70px;
   left: 179px;
   transform: rotate(-63deg);
   border-top: 8px solid transparent;
