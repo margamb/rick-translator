@@ -22,8 +22,8 @@ If you want to see the demo of this proyect deployed, you can take a look [here]
 
 ### How to run in your computer
 
-- CLone the project
+- Clone the project
 - Open index.html in your browser
 - It's that easy, it will work since the project is vanilla JS and does not require any install.
 
-![]('./img/img-project.png')
+![]("img/img-project.png")
