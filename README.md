@@ -1,6 +1,6 @@
 # Rick Translator (Based on Rick & Morty).
 
-If you want to see the demo of this proyect deployed, you can take a look [here](http://www.limni.net)
+If you want to see the demo of this proyect deployed, you can take a look [here](https://margamb.github.io/rick-translator/)
 
 ## How it works
 
