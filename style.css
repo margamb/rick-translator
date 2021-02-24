@@ -429,7 +429,7 @@ body {
   border-radius: 100px;
   border: none;
   position: absolute;
-  top: 32px;
+  top: 35px;
   left: 257px;
   color: #fff;
   cursor: pointer;
@@ -443,10 +443,10 @@ body {
   margin-left: 38px;
 }
 
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) {
   input,
   select,
   textarea {
     font-size: 16px;
   }
-}
+} */
